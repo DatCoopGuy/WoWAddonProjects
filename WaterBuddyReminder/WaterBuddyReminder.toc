@@ -1,0 +1,15 @@
+## Interface: 100207
+## Title: WaterBuddyReminder
+## Notes: Reminds Player to be Healthy and Drink Water after a Set Time
+## Author: DatCoopGuy
+## Version: 0.69.420
+## IconTexture: Interface\AddOns\WaterBuddyReminder\WaterBuddyReminder.tga
+## IconAtlas: Interface\AddOns\WaterBuddyReminder\WaterBuddyReminder.tga
+
+WaterBuddyReminder.lua
+
+// Interface is the Version of WoW  played for the AddOn
+// Title is the Title of the addon and Notes is description seen when cursor is over it in the Addon Folder
+// Author and Version is just a way to give credit inside the code but I kinda use it as a way to joke around and is in reality irellevant to actual code
+// IconAtlas and IconTexture is ways for the addon to read the image file (must be a tga file for WoW) so it can be used in icons and buttons
+// Lastly the lua fil is included to link table of content to addon code

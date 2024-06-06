@@ -1,0 +1,15 @@
+## Interface: 100207
+## Title: Water Buddy Reminder [After Dark 18+]
+## Notes: Reminds player to drink water with 18+ messages
+## Author: DatCoopGuy
+## Version: 8.00.85
+## IconTexture: Interface\AddOns\WaterBuddyReminderAfterDark\WaterBuddyReminderAfterDark.tga
+## IconAtlas: Interface\AddOns\WaterBuddyReminderAfterDark\WaterBuddyReminderAfterDark.tga
+
+WaterBuddyReminderAfterDark.lua
+
+// Interface is the Version of WoW  played for the AddOn
+// Title is the Title of the addon and Notes is description seen when cursor is over it in the Addon Folder
+// Author and Version is just a way to give credit inside the code but I kinda use it as a way to joke around and is in reality irellevant to actual code
+// IconAtlas and IconTexture is ways for the addon to read the image file (must be a tga file for WoW) so it can be used in icons and buttons
+// Lastly the lua fil is included to link table of content to addon code

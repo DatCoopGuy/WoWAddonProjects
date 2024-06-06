@@ -1,0 +1,16 @@
+{
+    "Lua.diagnostics.globals": [
+        "StaticPopupDialogs",
+        "StaticPopup_Show",
+        "SlashCmdList",
+        "UIDropDownMenu_Initialize",
+        "UIDropDownMenu_SetWidth",
+        "UIDropDownMenu_SetButtonWidth",
+        "UIDropDownMenu_SetSelectedID",
+        "UIDropDownMenu_JustifyText",
+        "UIDropDownMenu_AddButton",
+        "UIDropDownMenu_CreateInfo",
+        "UIDropDownMenu_SetSelectedValue",
+        "UIDropDownMenu_SetText"
+    ]
+}
